@@ -1,3 +1,1 @@
 # SERA
-https://stackoverflow.com/questions/54333293/how-do-you-embed-a-tflite-file-into-an-android-application
-https://developers.google.com/codelabs/tflite-object-detection-android#0
